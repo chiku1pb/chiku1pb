@@ -1,5 +1,5 @@
 # 💫 About Me:
-{ " i believe that engineering is the highest level of importance humans could reach in this world !!! "}
+i believe that engineering is the highest level of importance humans could reach in this world !!! 
 
 
 
