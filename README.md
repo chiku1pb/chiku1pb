@@ -3,7 +3,7 @@ i believe that engineering is the highest level of importance humans could reach
 
 
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
